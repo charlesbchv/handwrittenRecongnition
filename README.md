@@ -1,4 +1,4 @@
-# Reconnaissance de Chiffres Manuscrits
+# Deep Learning : Handwritten Digit Recognition
 
 <p align="center"><a href="https:/laravel.com" target="_blanc"><img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*cQePQw-v3lC7QpZq9LdbKg.png" width="600"></a></p>
 <p align="center"> 
